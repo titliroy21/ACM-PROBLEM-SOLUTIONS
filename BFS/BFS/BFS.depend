@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1410249931 source:c:\users\titli.roy\desktop\inevitable stl for cpp coders\code_mahbub_practice\mathematics\bfs\main.cpp
+	<set>
+	<map>
+	<list>
+	<cmath>
+	<ctime>
+	<queue>
+	<stack>
+	<cctype>
+	<cstdio>
+	<string>
+	<vector>
+	<cassert>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<iostream>
+	<algorithm>
+

@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1410326681 source:c:\users\titli.roy\desktop\inevitable stl for cpp coders\code_mahbub_practice\graph theory\dfs\main.cpp
+	<set>
+	<map>
+	<list>
+	<cmath>
+	<ctime>
+	<queue>
+	<stack>
+	<cctype>
+	<cstdio>
+	<string>
+	<vector>
+	<cassert>
+	<cstdlib>
+	<cstring>
+	<sstream>
+	<iostream>
+	<algorithm>
+
